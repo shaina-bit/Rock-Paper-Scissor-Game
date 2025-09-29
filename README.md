@@ -12,7 +12,7 @@ This project showcases my skills in Python, GUI development, and game logic. It�
 - 🔥 Beginner-friendly project
 
 ## 📸 Screenshot
-![Game Screenshot](screenshot.png)
+![Game Screenshot](rps_screenshot.png)
 
 ## 🚀 How to Run
 1. Clone this repo:
