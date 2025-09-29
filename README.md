@@ -16,7 +16,7 @@ This project showcases my skills in Python, GUI development, and game logic. Itâ
 
 ## ðŸš€ How to Run
 1. Clone this repo:
-   git clone https://github.com/shaina-bit/advanced_rps_game.py
+   git clone https://github.com/shaina-bit/Rock-Paper-Scissor-Game/blob/main/advanced_rps_game.py
    cd advanced rps game
 2. Run the game (classic RPS):
    python rps_gui.py
